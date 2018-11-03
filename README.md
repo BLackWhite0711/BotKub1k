@@ -1,0 +1,2 @@
+# BotKub1k
+AutoClaimKubikNews
